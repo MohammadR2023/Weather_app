@@ -1,0 +1,9 @@
+* {
+    margin: 0px;
+}
+
+#root {
+    width: 100%;
+    height: 55.5rem;
+    background-color: #354F52;
+}
